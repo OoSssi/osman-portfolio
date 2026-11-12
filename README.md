@@ -8,8 +8,8 @@ Bu proje, Osman Demir'in web geliştirme alanındaki öğrenme sürecini, beceri
 
 ## Yerel ortamda çalıştırma
 ```bash
-npm install
-npm run dev
+npm.cmd install
+npm.cmd run dev
 ```
 Ardından http://localhost:3000 adresini açın.
 
